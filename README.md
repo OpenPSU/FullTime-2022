@@ -1,6 +1,6 @@
-# Full Time jobs repository 2022
+# Full Time jobs repository FA2022/SP2023
 
-This is a repository of Full Time Jobs - new grads 2022. List maintained by the OpenPSU student club (work in progress)
+This is a repository of Full Time Jobs for new grads FA2022/SP2023. List maintained by the OpenPSU student club (work in progress)
 
 **Location includes many countries and remote positions**
 
