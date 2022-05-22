@@ -1,6 +1,6 @@
-# Internships Summer 2023
+# Full Time jobs repository 2022
 
-This is a repository of Summer 2023 internships/co-ops. List maintained by the OpenPSU student club (work in progress)
+This is a repository of Full Time Jobs - new grads 2022. List maintained by the OpenPSU student club (work in progress)
 
 **Location includes many countries and remote positions**
 
