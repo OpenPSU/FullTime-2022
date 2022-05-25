@@ -15,5 +15,8 @@ Contribute by filling out this form (Work in progress)
 | Company | Location | Country | Position & Notes | Sponsorship Availability |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Amazon](https://www.amazon.jobs/en/jobs/2055749/software-development-engineer-l4)  | Multiple  | United States | Remote & SDE1 position  | N/A  |
+| [American Express](https://aexp.eightfold.ai/careers?query=Software%20Engineer&location=New%20York%2C%20New%20York%2C%20United%20States&pid=11846510&domain=aexp.com&triggerGoButton=true&triggerGoButton=false)  | New York, New York | United States | Java  | No  |
 | Sample Name  | Sample Address, Sample State  | Sample Country | Sample positions & notes  | Sample Yes/No  |
+
+
 
