@@ -14,7 +14,7 @@ Contribute by filling out this form (Work in progress)
 
 | Company | Location | Country | Position & Notes | Sponsorship Availability |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Amazon](https://careers.vmware.com/main/jobs/R2212905?lang=en-us)  | Multiple  | United States | Remote & SDE1 position  | No |
+| [VMWare](https://careers.vmware.com/main/jobs/R2212905?lang=en-us)  | Multiple  | United States | Remote option available  | No |
 | Sample Name  | Sample Address, Sample State  | Sample Country | Sample positions & notes  | Sample Yes/No  |
 
 
